@@ -1,0 +1,10 @@
+We always try to find out the time complexity in worst case scenarios
+
+So first question comes into our mind that what is BigO Notation.
+BigO notation is a measure which gives us an upper bound on the number of steps an algorithm takes
+as a function of the size of the input.
+BigO is basically a notation for the time and space complexity here notation means symbol...
+
+Space complexity is the amount of space taken by an algorithm as function of input size(n).
+
+
